@@ -1,0 +1,1 @@
+Server=tcp:arrion.database.windows.net,1433;Initial Catalog=P0_ArtStoreDB;Persist Security Info=False;User ID=arrion;Password=@Cr3amcheese3;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;
